@@ -2,7 +2,7 @@
 
 Hello.
 To open this program, you will need Java on your computer.
-Please use PondApp .jar file to open this project.
+Please use PondApp .jar file to open this software.
 
-Have fun!
+Have fun :)!
 Konstantin
